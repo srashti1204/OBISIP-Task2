@@ -1,0 +1,168 @@
+body{
+    overflow-x: hidden;
+    font-size: large;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    font-size: large;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 18px;
+}
+.mynavlink:hover{
+    background-color: #1b136b;
+}
+.mynav{
+    background-color: #060047;
+    color: white;
+}
+/*Home*/
+.myhome{
+    background-color: #E5D1FA;
+    margin: 0;
+    padding: 10%;
+}
+.home-description{
+    font-size: x-large;
+}
+.profile-img-1{
+    height: 275px;
+    width: 275px;
+    border-radius: 100%;
+}
+.mybtn {
+    background: #3498db;
+    border-radius: 10%;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.mybtn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+/*About me*/
+.icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin: 20px 5px 15px;
+}
+.about{
+    background-color: #E3DFFD;
+    margin: 0;
+    height: 400px;
+    padding: 3%;
+}
+.a-head{
+    font-size: xx-large;
+}
+.a-head3{
+    font-size: x-large;
+}
+.detail{
+    color: blue;
+}
+.heading{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 40%;
+}
+.icon1{
+    height: 40px;
+    width: 35px;
+    border-radius: 100%;
+    text-align: center;
+    position: relative;
+    left: 38%;
+    bottom:3%;
+}
+/*skills*/
+.skills{
+    background-color: #E3DFFD;
+    margin: 0;
+    padding: 5%;
+}
+.skill-inner{
+    border: 2%;
+    padding: 2%;
+}
+.skill-icon{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    padding: 1%;
+    border-radius: 100%;
+}
+.skillset{
+    padding: 5%;
+    padding-left: 9%;
+}
+/*Education*/
+.edu{
+    background-color: #E3DFFD;
+    margin: 0;
+    padding: 3%;
+}
+#edu-detail{
+    text-align: center;
+}
+.image{
+    height: 200px;
+    width: 400px;
+}
+.clg, .scl{
+    padding: 1%;
+    background-color: white;
+    margin: 2%;
+}
+
+.contact{
+    background-color: #E3DFFD;
+    padding: 5%;
+}
+.contact-form{
+    background-color: white;
+    padding: 1.5%;
+    margin: 2%;
+}
+.contact-img{
+    height: 400px;
+    width: 600px;
+}
+.form-ele{
+    padding: 2%;
+}
+.form-btn{
+    padding: 2%;
+    float: right;
+}
+
+.footer-data{
+    background-color: #060047;
+    color: white;
+    padding: 4%;
+}
+.footer-head{
+    font-size: 1.5rem;
+}
+.footer-content{
+    font-size: 1rem;
+    padding-top: 1rem;
+}
+.font-icon{
+    padding-right: 1rem;
+}
+#foot-end{
+    text-align: center;
+}
